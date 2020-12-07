@@ -5,4 +5,8 @@ button{
     border: 1px solid hsl(211, 100%, 50%);
     color: #ffffff;
     font-family: 'Roboto', sans-serif; 
+
+}
+button:hover{
+    background-color: violet;
 }
