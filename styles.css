@@ -10,3 +10,7 @@ button{
 button:hover{
     background-color: violet;
 }
+
+button:active {
+    font-size: 30px;
+}
