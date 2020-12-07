@@ -31,7 +31,14 @@ color: green;
 }*/
 .button-ok{
     color: hsl(120, 100%, 50%);
+   
+}
+.button-ok:hover{
+    background-color: violet;
 }
 .button-not{
     color: hsl(0, 100%, 50%);
+}
+.button:disabled{
+    color:hsl(400, 0%, 100%) ;
 }
