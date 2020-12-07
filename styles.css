@@ -25,4 +25,13 @@
     padding: 8px 6px;
     font-size: 20px;
     border-radius: 5px;
+}/*
+.small .button{
+color: green;
+}*/
+.button-ok{
+    color: hsl(120, 100%, 50%);
+}
+.button-not{
+    color: hsl(0, 100%, 50%);
 }
